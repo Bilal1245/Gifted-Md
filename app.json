@@ -1,7 +1,7 @@
 {
-    "name": "gifted-md@3.0.0",
+    "name": "ʙɪʟʟᴏᴊᴀɴ",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-    "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+    "logo": "https://i.imgur.com/C1mwhvE.jpeg",
     "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
     "success_url": "/",
     "stack": "container",
@@ -94,11 +94,11 @@
       },
        "USER_IMAGES": {
         "description": "User Images",
-        "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
+        "value": "https://i.imgur.com/C1mwhvE.jpeg"
       },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
+      "value": "https://i.imgur.com/C1mwhvE.jpeg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
